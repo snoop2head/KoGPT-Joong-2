@@ -17,3 +17,9 @@ The project will compare each generative models' outcome.
 - [Tunib Electra](https://github.com/tunib-ai/tunib-electra)
 - [KCElectra](https://huggingface.co/beomi/KcELECTRA-base)
 - [klue/roberta-large](https://huggingface.co/klue/roberta-large)
+
+### Installation
+
+```bash
+pip install -r requirementst.txt
+```
