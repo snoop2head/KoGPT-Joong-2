@@ -1,7 +1,5 @@
 ### 문학적 운율과 의미를 지닌 데이터셋
 
-[삼행시의 달인 계획 및 목표](https://www.notion.so/snoop2head/v-0-1-86e658572b104dc19b58ebe59ad2b094)
-
 **Dataset to finetune on**
 
 - [가사 데이터셋](_clones/char-rnn-tensorflow/data/lyricskor/input.txt)
