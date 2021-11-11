@@ -21,5 +21,5 @@ The project will compare each generative models' outcome.
 ### Installation
 
 ```bash
-pip install -r requirementst.txt
+pip install -r requirements.txt
 ```
