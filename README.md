@@ -10,6 +10,7 @@
 **Transformer based generative models**
 The project will compare each generative models' outcome.
 
+- [KoGPT by KakaoBrain](https://github.com/kakaobrain/kogpt)
 - [KoBART](https://github.com/SKT-AI/KoBART)
 - [KoGPT3](https://huggingface.co/skt/ko-gpt-trinity-1.2B-v0.5)
 - [KoGPT2](https://huggingface.co/taeminlee/kogpt2)
