@@ -1,3 +1,6 @@
 .python-version
 _clones
 *.pt
+/wandb
+/logs
+/results
