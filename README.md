@@ -58,6 +58,10 @@ pip install -r requirements.txt
 - [가사 데이터셋](_clones/char-rnn-tensorflow/data/lyricskor/input.txt)
 - [글스타그램 데이터셋](https://github.com/Keracorn/geulstagram)
 
+### Pretrained Model
+For the backbone model,Ko-GPT-Trinity released by SKT was used. [Ko-GPT-Trinity 1.2B is a transformer model designed using SK telecom's replication of the GPT-3 architecture.](https://huggingface.co/skt/ko-gpt-trinity-1.2B-v0.5)
+
+
 ### References
 
 - [KoGPT2-Transformers huggingface 활용 예시](https://github.com/taeminlee/KoGPT2-Transformers)
