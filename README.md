@@ -1,29 +1,49 @@
-### Wandb Log
+# KoGPT-Joong-2
 
-https://wandb.ai/snoop2head/huggingface/runs/303yd9c0
+[📈 Wandb Log](https://wandb.ai/snoop2head/huggingface/runs/303yd9c0)
 
-### 문학적 운율과 의미를 지닌 데이터셋
 
-**Dataset to finetune on**
+### KoGPT-Joong-2's Acrostic Poem Generation Examples
+
+```
+[연세대 - 1]
+연민이라는 것은 양날의 검과 같다 
+세기의 악연일수도..
+대가는 혹독할것이다 연기의 끝은 상처다
+
+[연세대 - 2]
+연약한 마음으로 강한 척하지 말고 강한 마음을 먹자
+세 마디 말보다 한마디 말이 더 진정성 있어 보인다.
+대시 하지 마라.
+```
+
+```
+[자탄풍]
+자그마하게 
+탄식의 강을 건너고 
+풍경의 나무를 넘어가네
+```
+
+### KoGPT-Joong-2's Phrase Generation Examples
+```
+[너는 나의]
+- 너는 나의 거짓말. 나는 너의 참말. 너를 잊었다는 나와 나를 잊었다는 너의 차이.
+- 너는 나의 옷자락이고 머릿결이고 꿈결이고 나를 헤집던 사정없는 풍속이었다
+```
+
+```
+[그대 왜 내 꿈에]
+- 그대 왜 내 꿈에 나오지 않는 걸까요, 내 꿈 속에서도 그대 사라지면 어쩌나요
+- 그대 왜 내 꿈에 불시착했는가.
+```
+
+### Dataset finetuned on
 
 - [가사 데이터셋](_clones/char-rnn-tensorflow/data/lyricskor/input.txt)
-- [인스타그램 데이터셋](https://drive.google.com/drive/u/0/folders/1KNbBE5ENNzwT6A_GyAmyaofJUyBcFkQ4)
+- [글스타그램 데이터셋](https://github.com/Keracorn/geulstagram)
 
-### 사용할 Generative 모델들
 
-**Transformer based generative models**
-The project will compare each generative models' outcome.
-
-- [KoGPT by KakaoBrain](https://github.com/kakaobrain/kogpt)
-- [KoBART](https://github.com/SKT-AI/KoBART)
-- [KoGPT3](https://huggingface.co/skt/ko-gpt-trinity-1.2B-v0.5)
-- [KoGPT2](https://huggingface.co/taeminlee/kogpt2)
-- [KoElectra](https://github.com/monologg/KoELECTRA)
-- [Tunib Electra](https://github.com/tunib-ai/tunib-electra)
-- [KCElectra](https://huggingface.co/beomi/KcELECTRA-base)
-- [klue/roberta-large](https://huggingface.co/klue/roberta-large)
-
-### Installation
+### Dependencies Installation
 
 ```bash
 pip install -r requirements.txt
