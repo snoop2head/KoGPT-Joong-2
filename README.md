@@ -40,25 +40,22 @@
 from transformers import AutoTokenizer, AutoModelWithLMHead
   
 tokenizer = AutoTokenizer.from_pretrained("snoop2head/KoGPT-Joong-2")
-
 model = AutoModelWithLMHead.from_pretrained("snoop2head/KoGPT-Joong-2")
 ```
 
 For specific inference codes, please refer to [inference_finetuned_35000-step.ipynb file](https://github.com/snoop2head/KoGPT-Joong-2/blob/main/inference_finetuned_35000-step.ipynb)
-
-
-
-
-### Dataset finetuned on
-
-- [가사 데이터셋](_clones/char-rnn-tensorflow/data/lyricskor/input.txt)
-- [글스타그램 데이터셋](https://github.com/Keracorn/geulstagram)
 
 ### Dependencies Installation
 
 ```bash
 pip install -r requirements.txt
 ```
+
+
+### Dataset finetuned on
+
+- [가사 데이터셋](_clones/char-rnn-tensorflow/data/lyricskor/input.txt)
+- [글스타그램 데이터셋](https://github.com/Keracorn/geulstagram)
 
 ### References
 
