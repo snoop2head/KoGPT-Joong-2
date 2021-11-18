@@ -1,7 +1,7 @@
 # KoGPT-Joong-2
 
 [📈 Wandb Log](https://wandb.ai/snoop2head/huggingface/runs/303yd9c0)
-
+[🤗 Huggingface Hosted Model & Tokenizer](https://huggingface.co/snoop2head/KoGPT-Joong-2)
 
 ### KoGPT-Joong-2's Acrostic Poem Generation Examples (N행시 예시)
 
