@@ -3,15 +3,15 @@
 [📈 Wandb Log](https://wandb.ai/snoop2head/huggingface/runs/303yd9c0)
 
 
-### KoGPT-Joong-2's Acrostic Poem Generation Examples
+### KoGPT-Joong-2's Acrostic Poem Generation Examples (N행시 예시)
 
 ```
-[연세대 - 1]
+[연세대(1)]
 연민이라는 것은 양날의 검과 같다 
 세기의 악연일수도..
 대가는 혹독할것이다 연기의 끝은 상처다
 
-[연세대 - 2]
+[연세대(2)]
 연약한 마음으로 강한 척하지 말고 강한 마음을 먹자
 세 마디 말보다 한마디 말이 더 진정성 있어 보인다.
 대시 하지 마라.
