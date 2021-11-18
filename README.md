@@ -34,6 +34,7 @@
 - 그대 왜 내 꿈에 나오지 않는 걸까요, 내 꿈 속에서도 그대 사라지면 어쩌나요
 - 그대 왜 내 꿈에 불시착했는가.
 ```
+---
 
 ### How to use KoGPT-Joong-2
 ```python
@@ -50,7 +51,7 @@ For specific inference codes, please refer to [inference_finetuned_35000-step.ip
 ```bash
 pip install -r requirements.txt
 ```
-
+---
 
 ### Dataset finetuned on
 
