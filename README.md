@@ -1,6 +1,5 @@
 # KoGPT-Joong-2
-- [🤗 Huggingface Hosted Model & Tokenizer](https://huggingface.co/snoop2head/KoGPT-Joong-2)
-- [📈 Wandb Log](https://wandb.ai/snoop2head/huggingface/runs/303yd9c0)
+[🤗 Huggingface Hosted Model & Tokenizer](https://huggingface.co/snoop2head/KoGPT-Joong-2)
 
 ### KoGPT-Joong-2's Acrostic Poem Generation Examples (N행시 예시)
 
@@ -41,6 +40,9 @@
 - [가사 데이터셋](_clones/char-rnn-tensorflow/data/lyricskor/input.txt)
 - [글스타그램 데이터셋](https://github.com/Keracorn/geulstagram)
 
+
+### Training Info
+[📈 Wandb Log](https://wandb.ai/snoop2head/huggingface/runs/303yd9c0)
 
 ### Dependencies Installation
 
