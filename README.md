@@ -59,7 +59,7 @@ pip install -r requirements.txt
 - [글스타그램 데이터셋](https://github.com/Keracorn/geulstagram)
 
 ### Pretrained Model
-For the backbone model, Ko-GPT-Trinity 1.2B was used. Ko-GPT-Trinity 1.2B is a transformer model designed using SK telecom's replication of the GPT-3 architecture.
+For the backbone model, Ko-GPT-Trinity 1.2B was used. Ko-GPT-Trinity 1.2B is a transformer model which is SK telecom's replication of the GPT-3 architecture.
 
 
 ### References
