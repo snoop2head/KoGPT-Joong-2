@@ -44,7 +44,7 @@ tokenizer = AutoTokenizer.from_pretrained("snoop2head/KoGPT-Joong-2")
 model = AutoModelWithLMHead.from_pretrained("snoop2head/KoGPT-Joong-2")
 ```
 
-For specific process, please refer to [inference_finetuned_35000-step.ipynb file](https://github.com/snoop2head/KoGPT-Joong-2/blob/main/inference_finetuned_35000-step.ipynb)
+For specific inference codes, please refer to [inference_finetuned_35000-step.ipynb file](https://github.com/snoop2head/KoGPT-Joong-2/blob/main/inference_finetuned_35000-step.ipynb)
 
 
 
