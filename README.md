@@ -35,6 +35,20 @@
 - 그대 왜 내 꿈에 불시착했는가.
 ```
 
+### How to use KoGPT-Joong-2
+```python
+from transformers import AutoTokenizer, AutoModelWithLMHead
+  
+tokenizer = AutoTokenizer.from_pretrained("snoop2head/KoGPT-Joong-2")
+
+model = AutoModelWithLMHead.from_pretrained("snoop2head/KoGPT-Joong-2")
+```
+
+For specific process, please refer to [inference_finetuned_35000-step.ipynb file](https://github.com/snoop2head/KoGPT-Joong-2/blob/main/inference_finetuned_35000-step.ipynb)
+
+
+
+
 ### Dataset finetuned on
 
 - [가사 데이터셋](_clones/char-rnn-tensorflow/data/lyricskor/input.txt)
