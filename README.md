@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 ### Dataset finetuned on
 
-- [가사 데이터셋](_clones/char-rnn-tensorflow/data/lyricskor/input.txt)
+- [가사 데이터셋](https://github.com/DongjunLee/char-rnn-tensorflow/tree/master/data/lyricskor)
 - [글스타그램 데이터셋](https://github.com/Keracorn/geulstagram)
 
 ### Pretrained Model
